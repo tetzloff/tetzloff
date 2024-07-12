@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @tetzloff
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👋 Hi There! I'm @tetzloff
 
-<!---
-tetzloff/tetzloff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🧪 I'm currently the Safety Data Science Manager at American Airlines
+- 📊 I have a passion for data visualization
+- ☕️ I'm fueled by coffee and drink too much
+- 👨🏻‍💻 I'm always learning more about technology, machine learning and predictive analytics
