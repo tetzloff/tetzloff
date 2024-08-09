@@ -2,7 +2,7 @@
 
 **I'm @tetzloff** 👨🏻‍💻 
 
-- 🧪 I'm currently the Safety Data Science Manager at American Airlines
+- 🧪 I'm an optimization, data science and advanced analytics professional
 - 📊 I have a passion for data visualization
 - ☕️ I'm fueled by coffee (always black or espresso)
 - 🔮 I'm always learning more about technology, machine learning and predictive analytics
